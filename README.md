@@ -1,4 +1,4 @@
-PRODUCTIVITY-TRACKER
+# PRODUCTIVITY-TRACKER
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -13,7 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH
 
 #tells
-# Productivity Tracker Chrome Extension is Chrome extension tracks the time you spend on websites and displays daily usage data. It helps you stay productive by monitoring activity, syncing with a backend, and even blocking time-wasting sites.
+Productivity Tracker Chrome Extension is Chrome extension tracks the time you spend on websites and displays daily usage data. It helps you stay productive by monitoring activity, syncing with a backend, and even blocking time-wasting sites.
 #Features
 Tracks time spent on each website.
 Stores data in chrome.storage.local.
