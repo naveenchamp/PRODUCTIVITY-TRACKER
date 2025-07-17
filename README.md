@@ -39,7 +39,7 @@ POST /api/log-activity
 GET /api/today
 POST /api/test-insert (dev only)
 
-#Output:
+## Output:
 
 <img width="1895" height="857" alt="Image" src="https://github.com/user-attachments/assets/08e5bda4-f206-4c97-ae5e-7880e2f432ec" />
 <img width="663" height="551" alt="Image" src="https://github.com/user-attachments/assets/68088908-abce-4473-97fe-20579a66dd48" />
